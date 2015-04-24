@@ -2,6 +2,9 @@
 Changelog for package designator_integration_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2015-04-24)
+------------------
+
 0.0.4 (2015-03-19)
 ------------------
 * Allowing to encode float arrays in designator message

@@ -10,6 +10,9 @@ Changelog for package iai_robosherlock_actions
 * removed action-definition 'DetectPancake'
 * Contributiors: Georg Bartels
 
+0.0.5 (2015-04-24)
+------------------
+
 0.0.4 (2015-03-19)
 ------------------
 

@@ -1,0 +1,12 @@
+Source: ros-jade-person-msgs
+Section: misc
+Priority: extra
+Maintainer: jworch <jworch@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-geometry-msgs, ros-jade-message-generation
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-person-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-geometry-msgs, ros-jade-message-runtime
+Description: Message definitions for detected persons from within RoboSherlock

@@ -1,0 +1,55 @@
+ros-indigo-saphari-msgs (0.0.6-0saucy) saucy; urgency=high
+
+  * Changelog files for release
+  * new message saphari_msgs/GestureData required for saphari final review.
+  * Correct BodyPart.msg: FOREARM->LEFTFOREARM.
+  * adjust CMakefile to build with renamed HumansState.msg (new Humans.msg)
+  * rename HumansState to Humans
+  * add HumansState
+    - HumansState has observed_user_ids for fast access to the actual observed users without looping the hole list of humans
+  * Contributors: Georg Bartels, Jan Winkler, beld_rc
+  * new message saphari_msgs/GestureData required for saphari final review.
+  * Correct BodyPart.msg: FOREARM->LEFTFOREARM.
+  * adjust CMakefile to build with renamed HumansState.msg (new Humans.msg)
+  * rename HumansState to Humans
+  * add HumansState
+    - HumansState has observed_user_ids for fast access to the actual observed users without looping the hole list of humans
+  * Contributors: Georg Bartels, beld_rc
+
+ -- jworch <jworch@todo.todo>  Wed, 20 Apr 2016 22:00:00 -0000
+
+ros-indigo-saphari-msgs (0.0.5-0saucy) saucy; urgency=high
+
+
+
+ -- jworch <jworch@todo.todo>  Thu, 23 Apr 2015 22:00:00 -0000
+
+ros-indigo-saphari-msgs (0.0.4-0saucy) saucy; urgency=high
+
+  * Added userId to saphariHuman msg
+  * Contributors: Jan-Hendrik Worch
+
+ -- jworch <jworch@todo.todo>  Wed, 18 Mar 2015 23:00:00 -0000
+
+ros-indigo-saphari-msgs (0.0.3-0saucy) saucy; urgency=high
+
+  * added constants
+  * added a message that contains a list equipment messages.
+    service will now return that new message instead of a list of equipment messages.
+  * Contributors: Thiemo Wiedemeyer
+
+ -- jworch <jworch@todo.todo>  Mon, 13 Oct 2014 22:00:00 -0000
+
+ros-indigo-saphari-msgs (0.0.1-0saucy) saucy; urgency=high
+
+  * Added package descriptions and fixed licenses where applicable
+  * Saphari message update
+  * equipment recognition service
+  * Added further information to saphari msg
+  * Improved saphari_msgs (thanks to Georg)
+  * Added messages for the communication between georgs controller and rs people detection for the saphari demo
+  * Contributors: Ferenc Balint-Benczedi, Jan Winkler, Jan-Hendrik Worch
+
+ -- jworch <jworch@todo.todo>  Thu, 15 May 2014 22:00:00 -0000
+
+

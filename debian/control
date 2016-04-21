@@ -1,0 +1,12 @@
+Source: ros-kinetic-dna-extraction-msgs
+Section: misc
+Priority: extra
+Maintainer: Ferenc Balint-Benczedi <balintbe@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-generation
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-dna-extraction-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime
+Description: Message definitions for controlling DNA extraction related actions in the ACAT project context

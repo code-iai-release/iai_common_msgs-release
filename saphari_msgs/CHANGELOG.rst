@@ -2,8 +2,17 @@
 Changelog for package saphari_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
+* Changelog files for release
+* new message saphari_msgs/GestureData required for saphari final review.
+* Correct BodyPart.msg: FOREARM->LEFTFOREARM.
+* adjust CMakefile to build with renamed HumansState.msg (new Humans.msg)
+* rename HumansState to Humans
+* add HumansState
+  - HumansState has observed_user_ids for fast access to the actual observed users without looping the hole list of humans
+* Contributors: Georg Bartels, Jan Winkler, beld_rc
+
 * new message saphari_msgs/GestureData required for saphari final review.
 * Correct BodyPart.msg: FOREARM->LEFTFOREARM.
 * adjust CMakefile to build with renamed HumansState.msg (new Humans.msg)

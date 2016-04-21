@@ -1,0 +1,72 @@
+ros-indigo-planning-msgs (0.0.6-0saucy) saucy; urgency=high
+
+  * Fixed version number in planning_msgs
+  * Added duration field in planning messages steps and plans
+  * Per-step scoring
+  * Scoring methods in planning request
+  * Added extra call pattern field for plan steps
+  * Added structure supporting attributes to planning messages
+  * Added field for unused bindings
+  * Changed the nature of planning request and response messages again a bit
+  * Updated planning messages
+  * Added score and extra Step msg type
+  * Added planning request/response service messages
+  * Contributors: Jan Winkler
+  * Fixed version number in planning_msgs
+  * Added new CHANGELOG.rst file to planning_msgs
+  * Added duration field in planning messages steps and plans
+  * Per-step scoring
+  * Scoring methods in planning request
+  * Added extra call pattern field for plan steps
+  * Added structure supporting attributes to planning messages
+  * Added field for unused bindings
+  * Changed the nature of planning request and response messages again a bit
+  * Updated planning messages
+  * Added score and extra Step msg type
+  * Added planning request/response service messages
+  * Contributors: Jan Winkler
+  * Added duration field in planning messages steps and plans
+  * Per-step scoring
+  * Scoring methods in planning request
+  * Added extra call pattern field for plan steps
+  * Added structure supporting attributes to planning messages
+  * Added field for unused bindings
+  * Changed the nature of planning request and response messages again a bit
+  * Updated planning messages
+  * Added score and extra Step msg type
+  * Added planning request/response service messages
+  * Contributors: Jan Winkler
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Wed, 20 Apr 2016 22:00:00 -0000
+
+ros-indigo-planning-msgs (0.0.5-0saucy) saucy; urgency=high
+
+
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Thu, 23 Apr 2015 22:00:00 -0000
+
+ros-indigo-planning-msgs (0.0.4-0saucy) saucy; urgency=high
+
+
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Wed, 18 Mar 2015 23:00:00 -0000
+
+ros-indigo-planning-msgs (0.0.3-0saucy) saucy; urgency=high
+
+
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Mon, 13 Oct 2014 22:00:00 -0000
+
+ros-indigo-planning-msgs (0.0.2-0saucy) saucy; urgency=high
+
+
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Fri, 16 May 2014 14:24:00 -0000
+
+ros-indigo-planning-msgs (0.0.1-0saucy) saucy; urgency=high
+
+
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Fri, 16 May 2014 14:20:00 -0000
+
+

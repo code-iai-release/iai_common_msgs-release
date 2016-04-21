@@ -1,0 +1,12 @@
+Source: ros-kinetic-iai-robosherlock-actions
+Section: misc
+Priority: extra
+Maintainer: Georg Bartels <georg.bartels@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-designator-integration-msgs, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-message-runtime, ros-kinetic-shape-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-iai-robosherlock-actions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib-msgs, ros-kinetic-designator-integration-msgs, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime, ros-kinetic-shape-msgs
+Description: Action interfaces to trigger perception via the Robosherlock perception system.

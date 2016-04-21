@@ -2,8 +2,16 @@
 Changelog for package iai_control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2016-04-21)
+------------------
+* Changelog files for release
+* Add a jointlimits message
+* arm_ik_controller: report seconds since the goal started
+* Add a State message for the Cartesian Controller
+* Added a action message for the PTU
+* added goal for the arms
+* Contributors: Alexis Maldonado, Jan Winkler
+
 * Add a jointlimits message
 * arm_ik_controller: report seconds since the goal started
 * Add a State message for the Cartesian Controller

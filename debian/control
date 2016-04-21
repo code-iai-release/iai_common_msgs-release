@@ -1,0 +1,12 @@
+Source: ros-kinetic-iai-common-msgs
+Section: misc
+Priority: extra
+Maintainer: AI Robotics <ai-robotics@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-iai-common-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-attache-msgs, ros-kinetic-data-vis-msgs, ros-kinetic-designator-integration-msgs, ros-kinetic-dna-extraction-msgs, ros-kinetic-grasp-stability-msgs, ros-kinetic-iai-content-msgs, ros-kinetic-iai-control-msgs, ros-kinetic-iai-kinematics-msgs, ros-kinetic-iai-robosherlock-actions, ros-kinetic-iai-urdf-msgs, ros-kinetic-iai-wsg-50-msgs, ros-kinetic-json-prolog-msgs, ros-kinetic-mln-robosherlock-msgs, ros-kinetic-person-msgs, ros-kinetic-planning-msgs, ros-kinetic-saphari-msgs, ros-kinetic-scanning-table-msgs, ros-kinetic-sherlock-sim-msgs
+Description: Message definitions created and used by the Institute for Artificial Intelligence research group at the University of Bremen

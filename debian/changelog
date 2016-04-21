@@ -1,0 +1,8 @@
+ros-kinetic-attache-msgs (0.0.6-0xenial) xenial; urgency=high
+
+  * Added attache messages
+  * Contributors: Jan Winkler
+
+ -- Jan Winkler <winkler@cs.uni-bremen.de>  Wed, 20 Apr 2016 22:00:00 -0000
+
+

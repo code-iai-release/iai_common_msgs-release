@@ -1,0 +1,35 @@
+ros-kinetic-sherlock-sim-msgs (0.0.6-1jessie) jessie; urgency=high
+
+  * Changelog files for release
+  * Contributors: Jan Winkler
+
+ -- Andrei Haidu <a.haidu@gmail.com>  Wed, 20 Apr 2016 22:00:00 -0000
+
+ros-kinetic-sherlock-sim-msgs (0.0.5-1jessie) jessie; urgency=high
+
+
+
+ -- Andrei Haidu <a.haidu@gmail.com>  Thu, 23 Apr 2015 22:00:00 -0000
+
+ros-kinetic-sherlock-sim-msgs (0.0.4-1jessie) jessie; urgency=high
+
+
+
+ -- Andrei Haidu <a.haidu@gmail.com>  Wed, 18 Mar 2015 23:00:00 -0000
+
+ros-kinetic-sherlock-sim-msgs (0.0.3-1jessie) jessie; urgency=high
+
+
+
+ -- Andrei Haidu <a.haidu@gmail.com>  Mon, 13 Oct 2014 22:00:00 -0000
+
+ros-kinetic-sherlock-sim-msgs (0.0.1-1jessie) jessie; urgency=high
+
+  * Added package descriptions and fixed licenses where applicable
+  * Forgot a name
+  * changed package name
+  * Contributors: Andrei Haidu, Jan Winkler, Jan-Hendrik Worch
+
+ -- Andrei Haidu <a.haidu@gmail.com>  Thu, 15 May 2014 22:00:00 -0000
+
+

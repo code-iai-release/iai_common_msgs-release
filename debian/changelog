@@ -1,0 +1,39 @@
+ros-jade-mln-robosherlock-msgs (0.0.6-0utopic) utopic; urgency=high
+
+  * Changelog files for release
+  * Contributors: Jan Winkler
+
+ -- Ferenc Balint-Benczedi <balintbe@cs.uni-bremen.de>  Wed, 20 Apr 2016 22:00:00 -0000
+
+ros-jade-mln-robosherlock-msgs (0.0.5-0utopic) utopic; urgency=high
+
+
+
+ -- Ferenc Balint-Benczedi <balintbe@cs.uni-bremen.de>  Thu, 23 Apr 2015 22:00:00 -0000
+
+ros-jade-mln-robosherlock-msgs (0.0.4-0utopic) utopic; urgency=high
+
+  * update to MLN message
+  * Contributors: Ferenc Balint-Benczedi
+
+ -- Ferenc Balint-Benczedi <balintbe@cs.uni-bremen.de>  Wed, 18 Mar 2015 23:00:00 -0000
+
+ros-jade-mln-robosherlock-msgs (0.0.3-0utopic) utopic; urgency=high
+
+
+
+ -- Ferenc Balint-Benczedi <balintbe@cs.uni-bremen.de>  Mon, 13 Oct 2014 22:00:00 -0000
+
+ros-jade-mln-robosherlock-msgs (0.0.1-0utopic) utopic; urgency=high
+
+  * Fixed a version number
+  * Added package descriptions and fixed licenses where applicable
+  * Corrected some information in package.xml and CMakeLists.txt as reported by catkin_lint
+  * catkinized scanning table msgs
+  * catkinezed pancake perception added metapackage
+  * added msg and srv interface for robosherlock and mlns from prac
+  * Contributors: Ferenc Balint-Benczedi, Jan Winkler
+
+ -- Ferenc Balint-Benczedi <balintbe@cs.uni-bremen.de>  Thu, 15 May 2014 22:00:00 -0000
+
+

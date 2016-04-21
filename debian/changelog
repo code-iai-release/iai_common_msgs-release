@@ -1,9 +1,0 @@
-ros-jade-json-prolog-msgs (0.0.5-0trusty) trusty; urgency=high
-
-  * Catkinized json_prolog_msgs.
-  * Copied over json_prolog_msgs from knworob.
-  * Contributors: Georg Bartels
-
- -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Thu, 23 Apr 2015 22:00:00 -0000
-
-

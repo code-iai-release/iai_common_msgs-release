@@ -1,3 +1,45 @@
+## iai_common_msgs (indigo) - 0.0.6-0
+
+The packages in the `iai_common_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release iai_common_msgs --track indigo --rosdistro indigo` on `Thu, 21 Apr 2016 06:46:25 -0000`
+
+These packages were released:
+- `attache_msgs`
+- `data_vis_msgs`
+- `designator_integration_msgs`
+- `dna_extraction_msgs`
+- `grasp_stability_msgs`
+- `iai_common_msgs`
+- `iai_content_msgs`
+- `iai_control_msgs`
+- `iai_kinematics_msgs`
+- `iai_robosherlock_actions`
+- `iai_urdf_msgs`
+- `iai_wsg_50_msgs`
+- `json_prolog_msgs`
+- `mln_robosherlock_msgs`
+- `person_msgs`
+- `planning_msgs`
+- `saphari_msgs`
+- `scanning_table_msgs`
+- `sherlock_sim_msgs`
+
+Version of package(s) in repository `iai_common_msgs`:
+
+- upstream repository: https://github.com/code-iai/iai_common_msgs.git
+- release repository: https://github.com/code-iai-release/iai_common_msgs-release.git
+- rosdistro version: `0.0.5-3`
+- old version: `0.0.5-3`
+- new version: `0.0.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## iai_common_msgs (jade) - 0.0.5-0
 
 The packages in the `iai_common_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade iai_common_msgs --edit` on `Wed, 23 Dec 2015 09:19:49 -0000`

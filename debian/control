@@ -1,0 +1,13 @@
+Source: ros-kinetic-iai-wsg-50-msgs
+Section: misc
+Priority: extra
+Maintainer: Georg Bartels <georg.bartels@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-iai-wsg-50-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-std-msgs
+Description: Fork of the driver packages for the Weiss Robotics WSG 50 gripper.
+ Maintained by the Institute for Artificial Intelligence, University Bremen.

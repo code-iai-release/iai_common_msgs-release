@@ -1,0 +1,48 @@
+ros-kinetic-iai-urdf-msgs (0.0.6-1wily) wily; urgency=high
+
+  * Changelog files for release
+  * Contributors: Jan Winkler
+
+ -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Wed, 20 Apr 2016 22:00:00 -0000
+
+ros-kinetic-iai-urdf-msgs (0.0.5-1wily) wily; urgency=high
+
+
+
+ -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Thu, 23 Apr 2015 22:00:00 -0000
+
+ros-kinetic-iai-urdf-msgs (0.0.4-1wily) wily; urgency=high
+
+  * Fix version number
+  * Added CHANGELOG.rst files for the new message packages
+  * Revert "Replaced the AlterUrdf service with an action"
+    This reverts commit d518491c3b7b19108354e188979a8a79d8dcf197.
+  * Replaced the AlterUrdf service with an action
+  * Added iai_urdf_msgs
+  * Contributors: Jan Winkler, Jannik Buckelo
+  * Revert "Replaced the AlterUrdf service with an action"
+  * Replaced the AlterUrdf service with an action
+  * Added iai_urdf_msgs
+  * Contributors: Jannik Buckelo
+
+ -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Wed, 18 Mar 2015 23:00:00 -0000
+
+ros-kinetic-iai-urdf-msgs (0.0.3-1wily) wily; urgency=high
+
+
+
+ -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Mon, 13 Oct 2014 22:00:00 -0000
+
+ros-kinetic-iai-urdf-msgs (0.0.2-1wily) wily; urgency=high
+
+
+
+ -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Fri, 16 May 2014 14:24:00 -0000
+
+ros-kinetic-iai-urdf-msgs (0.0.1-1wily) wily; urgency=high
+
+
+
+ -- Georg Bartels <georg.bartels@cs.uni-bremen.de>  Fri, 16 May 2014 14:20:00 -0000
+
+
